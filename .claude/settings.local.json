@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($r=Invoke-WebRequest http://127.0.0.1:8080/ -UseBasicParsing -TimeoutSec 5; \"HTTP $\\($r.StatusCode\\)\"; Start-Process http://127.0.0.1:8080/)"
+    ]
+  }
+}

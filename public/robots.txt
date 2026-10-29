@@ -1,0 +1,5 @@
+# Blackstone — robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://{{DOMINIO}}/sitemap.xml
