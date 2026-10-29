@@ -1,6 +1,6 @@
 {
   "_instrucciones": "Llene cada valor y ejecute: node herramientas/reemplazar-marcadores.mjs  (desde la carpeta blackstone-sitio). Deje en \"\" las redes que no use: se quitan del pie de página y del schema.",
-  "DOMINIO": "",
+  "DOMINIO": "blackstonearquitectos.com",
   "TELEFONO": "",
   "TELEFONO_VISIBLE": "",
   "WHATSAPP": "",

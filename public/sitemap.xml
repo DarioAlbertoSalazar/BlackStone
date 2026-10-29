@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://{{DOMINIO}}/</loc>
+    <loc>https://blackstonearquitectos.com/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://{{DOMINIO}}/img/residencia-contemporanea-concreto-madera-monterrey-1900.jpg</image:loc></image:image>
-    <image:image><image:loc>https://{{DOMINIO}}/img/casa-encino-san-pedro-garza-garcia-1400.jpg</image:loc></image:image>
-    <image:image><image:loc>https://{{DOMINIO}}/img/torre-cristal-valle-oriente-san-pedro-1400.jpg</image:loc></image:image>
-    <image:image><image:loc>https://{{DOMINIO}}/img/interior-cumbres-diseno-de-interiores-monterrey-1400.jpg</image:loc></image:image>
-    <image:image><image:loc>https://{{DOMINIO}}/img/casa-sierra-madre-santa-catarina-1400.jpg</image:loc></image:image>
-    <image:image><image:loc>https://{{DOMINIO}}/img/campus-norte-corporativo-monterrey-1400.jpg</image:loc></image:image>
-    <image:image><image:loc>https://{{DOMINIO}}/img/edificio-barrio-antiguo-remodelacion-monterrey-1400.jpg</image:loc></image:image>
+    <image:image><image:loc>https://blackstonearquitectos.com/img/residencia-contemporanea-concreto-madera-monterrey-1900.jpg</image:loc></image:image>
+    <image:image><image:loc>https://blackstonearquitectos.com/img/casa-encino-san-pedro-garza-garcia-1400.jpg</image:loc></image:image>
+    <image:image><image:loc>https://blackstonearquitectos.com/img/torre-cristal-valle-oriente-san-pedro-1400.jpg</image:loc></image:image>
+    <image:image><image:loc>https://blackstonearquitectos.com/img/interior-cumbres-diseno-de-interiores-monterrey-1400.jpg</image:loc></image:image>
+    <image:image><image:loc>https://blackstonearquitectos.com/img/casa-sierra-madre-santa-catarina-1400.jpg</image:loc></image:image>
+    <image:image><image:loc>https://blackstonearquitectos.com/img/campus-norte-corporativo-monterrey-1400.jpg</image:loc></image:image>
+    <image:image><image:loc>https://blackstonearquitectos.com/img/edificio-barrio-antiguo-remodelacion-monterrey-1400.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://{{DOMINIO}}/aviso-de-privacidad.html</loc>
+    <loc>https://blackstonearquitectos.com/aviso-de-privacidad.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

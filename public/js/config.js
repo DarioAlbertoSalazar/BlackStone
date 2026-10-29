@@ -18,7 +18,7 @@ window.BLACKSTONE = {
   whatsapp: '{{WHATSAPP}}',
   correo: '{{CORREO}}',
   /* Dominio sin https:// ni diagonal final. Ej.: blackstone.mx */
-  dominio: '{{DOMINIO}}',
+  dominio: 'blackstonearquitectos.com',
   direccion: '{{DIRECCION}}',
   codigoPostal: '{{CODIGO_POSTAL}}',
   /* ID de medición de Google Analytics 4. Ej.: G-XXXXXXXXXX */
